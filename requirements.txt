@@ -1,0 +1,8 @@
+opencv-python
+tensorflow
+torch
+flask
+Flask-Cors
+sqlalchemy
+numpy
+pandas
